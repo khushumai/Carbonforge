@@ -1,0 +1,14 @@
+/* src/assets/fonts.css */
+@font-face {
+    font-family: 'char';
+    src: url('./charfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'vidaloka';
+    src: url('./vidaloka.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
